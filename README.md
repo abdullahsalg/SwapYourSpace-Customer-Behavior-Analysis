@@ -91,9 +91,9 @@ Google BigQuery | SQL | Google Cloud Platform (GCP) | Looker Studio | Data Analy
 
 ## 📊 Dashboard Preview
 
-*Dashboard screenshots can be added here.*
+*Dashboard PDF*
 
-Example:
+
 
 ![Dashboard](dashboard.png)
 
